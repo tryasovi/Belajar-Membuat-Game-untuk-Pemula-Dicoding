@@ -1,4 +1,4 @@
-# Belajar-Membuat-Game-untuk-Pemula-Dicoding
+# Membuat-Game-untuk-Pemula-Dicoding
 
 Project Submission Game Unity Dicoding
 
